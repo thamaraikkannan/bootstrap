@@ -20,7 +20,7 @@
     "bulma": "^0.8.2",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "node-sass": "^4.14.1",
     "popper.js": "^1.12.9"
   }
